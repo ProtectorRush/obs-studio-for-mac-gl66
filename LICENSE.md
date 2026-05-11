@@ -1,4 +1,4 @@
-
+Enhance OBS Studio for macOS with smart Plugin for OBS Studio for macOS - lens-flare and real-time-effects, the #1 plugin. Includes lens-flare and real-time-effects for a smoother
 
 
 
